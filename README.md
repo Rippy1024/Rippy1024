@@ -51,7 +51,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/charles-xavier-152275304/"><img src="https://img.shields.io/badge/-Humberto%20Silvano%20Moreno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/humberto-moreno-152275304/"><img src="https://img.shields.io/badge/-Humberto%20Silvano%20Moreno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nano0504@gmail.com"><img src="https://img.shields.io/badge/-nano0504@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/nano1024"><img src="https://img.shields.io/badge/-@nano1024-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/NanoLuxoMoreno"><img src="https://img.shields.io/badge/-@NanoLuxoMoreno-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
